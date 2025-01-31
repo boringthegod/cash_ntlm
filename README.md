@@ -5,6 +5,14 @@ Cash NTLM is a project that allows you to generate between $1 and $3 per week in
 The hashes are broken almost instantaneously (within 10 seconds for text files containing several hundred thousand NTLM hashes) using a dictionary attack stored with rocksdb.
 
 
+## Step 1
+
+![](images/1.png)
+
+## Step 2
+
+![](images/2.png)
+
 ## rocksdb
 
 
